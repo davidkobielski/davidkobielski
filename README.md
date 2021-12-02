@@ -1,4 +1,4 @@
-### Hi 👋
+# Hi 👋
 My name is Dawid and I love everything related to IT:computer: (except Cobol programming language, know your limits)
 
 - 🔭 I’m currently working on ...
