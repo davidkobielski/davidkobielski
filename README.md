@@ -5,6 +5,6 @@ My name is Dawid and I love everything related to IT:computer: (except the COBOL
 
 ⚡⚡[DoOrDrink](https://doordrink.pl) *Not live yet - **8/12/2021 start***
 - **Frontend:** Vue.js, Javascript, Socket.io
-- **Backend:** Node.js, Javascript, Socket.io, MySQL, Express
+- **Backend:** Node.js, Javascript, Socket.io, MySQL, Express<br />
 ⚡⚡Chess library system
 - Pure Javascript
