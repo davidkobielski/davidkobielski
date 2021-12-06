@@ -1,5 +1,5 @@
 # Hi 👋
-My name is Dawid and I love everything related to IT:computer: (except the COBOL programming language). <br />
+My name is Dawid and I love everything related to IT:computer: <br />
 Most of my repositories are private :cowboy_hat_face: <br />
 
 ## ⚡ I'm currently working on my several projects:<br />
